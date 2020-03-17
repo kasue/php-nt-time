@@ -1,5 +1,5 @@
 {
-    "name": "kasue/php-nt-time",
+    "name": "kasue/nt_time",
     "description": "NT エポックタイムとUNIXタイムスタンプの相互変換クラス",
     "type": "library",
     "license": "MIT",

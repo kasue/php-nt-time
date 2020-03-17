@@ -1,7 +1,5 @@
 <?php
 // NTエポックタイム（Windows環境で内部的に利用する日時形式： 64bit） と UNIXタイムスタンプの相互変換
-//  Linux 系環境で動作する前提
-
 namespace kasue\nt_time;
 
 class time_nt_unix
@@ -56,5 +54,3 @@ class time_nt_unix
         return $nt_time;
     }
 }
-
-

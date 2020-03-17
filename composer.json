@@ -1,0 +1,19 @@
+{
+    "name": "kasue/php-nt-time",
+    "description": "NT エポックタイムとUNIXタイムスタンプの相互変換クラス",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kasue",
+            "email": "kaz-github@reg.kaz.bz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kasue\\nt_time\\": "src/"
+        }
+    }
+}
